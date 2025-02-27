@@ -1,0 +1,24 @@
+{
+  "name": "aqa",
+  "version": "1.0.0",
+  "description": "study project for learning Automation testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "npm run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ann-112358/AQA.git"
+  },
+  "author": "Bohachenko Anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ann-112358/AQA/issues"
+  },
+  "homepage": "https://github.com/Ann-112358/AQA#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
